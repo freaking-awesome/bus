@@ -1,0 +1,18 @@
+{
+    "name": "bus", "version": "0.0.1",
+    "description": "You own service bus",
+
+    "repository": "freaking-awesome/bus",
+
+    "keywords": [
+        "redis", "service", "bus"
+    ],
+
+    "dependencies": {
+        "redis": "latest",
+        "uuid": "latest"
+    },
+
+    "author": "awsmtek.com",
+    "license": "public domain"
+}
