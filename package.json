@@ -8,6 +8,14 @@
         "redis", "service", "bus"
     ],
 
+    "scripts": {
+        "test": "mocha"
+    },
+
+    "devDependencies": {
+        "mocha": "latest"
+    },
+
     "dependencies": {
         "redis": "latest",
         "uuid": "latest"
